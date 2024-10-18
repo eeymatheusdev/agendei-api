@@ -1,0 +1,7 @@
+npm init e enter até o fim
+
+npm install express
+npm install cors
+
+npm install sqlite3
+node --watch src/index.js
